@@ -1,0 +1,13 @@
+D:\Bootcamp\Labs\Lab7_PigLatin\bin\Debug\netcoreapp3.1\Lab7_PigLatin.exe
+D:\Bootcamp\Labs\Lab7_PigLatin\bin\Debug\netcoreapp3.1\Lab7_PigLatin.deps.json
+D:\Bootcamp\Labs\Lab7_PigLatin\bin\Debug\netcoreapp3.1\Lab7_PigLatin.runtimeconfig.json
+D:\Bootcamp\Labs\Lab7_PigLatin\bin\Debug\netcoreapp3.1\Lab7_PigLatin.runtimeconfig.dev.json
+D:\Bootcamp\Labs\Lab7_PigLatin\bin\Debug\netcoreapp3.1\Lab7_PigLatin.dll
+D:\Bootcamp\Labs\Lab7_PigLatin\bin\Debug\netcoreapp3.1\Lab7_PigLatin.pdb
+D:\Bootcamp\Labs\Lab7_PigLatin\obj\Debug\netcoreapp3.1\Lab7_PigLatin.csprojAssemblyReference.cache
+D:\Bootcamp\Labs\Lab7_PigLatin\obj\Debug\netcoreapp3.1\Lab7_PigLatin.AssemblyInfoInputs.cache
+D:\Bootcamp\Labs\Lab7_PigLatin\obj\Debug\netcoreapp3.1\Lab7_PigLatin.AssemblyInfo.cs
+D:\Bootcamp\Labs\Lab7_PigLatin\obj\Debug\netcoreapp3.1\Lab7_PigLatin.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Labs\Lab7_PigLatin\obj\Debug\netcoreapp3.1\Lab7_PigLatin.dll
+D:\Bootcamp\Labs\Lab7_PigLatin\obj\Debug\netcoreapp3.1\Lab7_PigLatin.pdb
+D:\Bootcamp\Labs\Lab7_PigLatin\obj\Debug\netcoreapp3.1\Lab7_PigLatin.genruntimeconfig.cache
