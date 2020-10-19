@@ -25,7 +25,7 @@ namespace Lab7_PigLatin
             while (runAgain)
             {
                 Console.Write("Enter a line to be translated: ");
-                userInput = Console.ReadLine();
+                userInput = Console.ReadLine().Trim();
                 userInputSplit = userInput.Split();
 
                 foreach(string word in userInputSplit)
